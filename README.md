@@ -15,5 +15,5 @@
 4. 技巧四：利用 `repeating-linear-gradient` 节省代码
 5. 技巧五：预留衔接空间消除渐变产生的锯齿
 6. 技巧六：利用多层渐变组合图形
-   1. 实现优惠券波浪造型：[](https://github.com/PENTONCOS/css_study/blob/main/background/coupon.css)
+   1. [实现优惠券波浪造型](https://github.com/PENTONCOS/css_study/blob/main/background/coupon.css)
 
